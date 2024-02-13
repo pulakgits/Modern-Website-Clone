@@ -1,2 +1,2 @@
 # Modern-Website-Clone
-It's a modern website using html,css. This project is fully responsive. We update this website regularly.
+Explore our sleek website designs featuring modern frontend home pages, meticulously crafted with HTML, CSS, and JavaScript technologies. Experience innovation firsthand.
